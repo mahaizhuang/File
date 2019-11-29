@@ -2,7 +2,7 @@ FusionSphere逻辑架构
 
 华为FusionSphere解决方案逻辑架构如图1所示。
 图1 FusionSphere虚拟化解决方案 
-
+![untitled.png](0)
 关键部件说明如表1所示。
 表1 关键组件说明
 部件
